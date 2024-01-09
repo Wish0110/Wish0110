@@ -24,3 +24,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wish0110&" alt="wish0110" /></p>
 
+</div>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
