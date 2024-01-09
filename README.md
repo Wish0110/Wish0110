@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Crawling**
 
-- 📫 How to reach me **wishhiranyaco@gmail.com**
+- 📫 How to reach me **wishhiranyaco@gmail.com** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
