@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Wishmi Hiranya</h1>
-<h3 align="center">A Software Engineering Undergraduate</h3>
+<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h3 align="center">I'm Wishmi Hiranya, A Software Engineering Undergraduate</h3>
+
 
 <p><center> <img src="https://komarev.com/ghpvc/?username=wish0110&label=Profile%20views&color=0e75b6&style=flat" alt="wish0110" /> </center></p>
 
