@@ -20,9 +20,9 @@
 
 
 ## <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"><b>Git Activeness</b></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wish0110&show_icons=true&locale=en&layout=compact" alt="wish0110" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wish0110&show_icons=true&locale=en" alt="wish0110" width="400" top="50"/></p><br><br><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wish0110&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Wish0110&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Wish0110&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wish0110&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## <p align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b></p>
