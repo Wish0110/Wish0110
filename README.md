@@ -1,15 +1,18 @@
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">I'm Wishmi Hiranya, A Software Engineering Undergraduate</h3>
 
+<img align='right' src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="500" height="220">
 
 <p><center> <img src="https://komarev.com/ghpvc/?username=wish0110&label=Profile%20views&color=0e75b6&style=flat" alt="wish0110" /> </center></p>
 
+- 👧 She/Her
 - 🌱 I’m currently learning <b>Web Crawling</b>
-
-- 📫 How to reach me **wishhiranyaco@gmail.com** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+- 🔄 Routine : Eat - Sleep - Code - Repeat <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+- 📫 How to reach me **wishhiranyaco@gmail.com**
 
 <br>
-
+<br>
+<br>
 
 ## <p align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></p>
 <h3 align="center">Languages and Tools:</h3>
@@ -19,8 +22,7 @@
 ## <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"><b>Git Activeness</b></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wish0110&show_icons=true&locale=en&layout=compact" alt="wish0110" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wish0110&show_icons=true&locale=en" alt="wish0110" width="400" top="50"/></p><br><br><br>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wish0110&" alt="wish0110" /></p> 
-<p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=wish0110&" alt="wish0110"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wish0110&" alt="wish0110" /></p> 
 
 
 ## <p align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b></p>
