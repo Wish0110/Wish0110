@@ -22,7 +22,7 @@
 
 
 ## <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"><b>Git Activeness</b></p>
-![](https://github-readme-stats.vercel.app/api?username=Wish0110&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Wish0110&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wish0110&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wish0110&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
