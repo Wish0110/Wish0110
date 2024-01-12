@@ -3,6 +3,8 @@
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">I'm Wishmi Hiranya, A Software Engineering Undergraduate</h3>
 
+<img align='right' src="![JXA0](https://github.com/Wish0110/Wish0110/assets/113825759/ec55ed86-4cf9-4322-9afd-7ab37fadacf5)" width="100" height="50">
+
 <p><center> <img src="https://komarev.com/ghpvc/?username=wish0110&label=Profile%20views&color=0e75b6&style=flat" alt="wish0110" /> </center></p>
 
 - 👧 She/Her
