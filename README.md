@@ -1,7 +1,7 @@
+<img align='center' src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="1000" height="350">
+
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">I'm Wishmi Hiranya, A Software Engineering Undergraduate</h3>
-
-<img align='right' src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="500" height="220">
 
 <p><center> <img src="https://komarev.com/ghpvc/?username=wish0110&label=Profile%20views&color=0e75b6&style=flat" alt="wish0110" /> </center></p>
 
