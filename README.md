@@ -1,6 +1,6 @@
 <img align='center' src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="1000" height="350">
 
-<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center"> Hello Fellow < Developers/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">I'm Wishmi Hiranya, A Software Engineering Undergraduate</h3>
 
 <img align='right' src="https://github.com/Wish0110/Wish0110/assets/113825759/ec55ed86-4cf9-4322-9afd-7ab37fadacf5" width="400" height="250">
