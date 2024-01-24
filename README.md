@@ -29,7 +29,7 @@
 
 ## <p align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b></p>
 <p align="center">
-<a href="https://twitter.com/wish hiranya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wish hiranya" height="30" width="40" /></a>
+<a href="https://twitter.com/wish hiranya" target="blank"><img align="center" src="https://cdn.dribbble.com/users/2652449/screenshots/14764078/twitter.gif" alt="wish hiranya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wish hiranya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wish hiranya" height="30" width="40" /></a>
 <a href="https://fb.com/wish hiranya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wish hiranya" height="30" width="40" /></a>
 <a href="https://instagram.com/wish hiranya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wish hiranya" height="30" width="40" /></a>
