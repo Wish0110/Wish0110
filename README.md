@@ -29,8 +29,8 @@
 
 ## <p align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b></p>
 <p align="center">
+<a href="https://fb.com/wish hiranya" target="blank"><img align="center" src="https://th.bing.com/th/id/R.1dc3051c0f639073502fc3f1d39e9d09?rik=10NxdK%2fijGT%2fJA&pid=ImgRaw&r=0" alt="wish hiranya" height="50" width="50" /></a>
 <a href="https://twitter.com/wish hiranya" target="blank"><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzd1NWVxZXFxbTdxMnFyaXF4ZmQ0ZnlybHFtZmRhZDM2ajlpNGo3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P6avjcIyyi4iWZxNMa/giphy.gif" alt="wish hiranya" height="60" width="60" /></a>
 <a href="https://linkedin.com/in/wish hiranya" target="blank"><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtcTNvYzl1OWdjcHYyemtjd3pqdGw3ZTZ2aWs0cHl4YjVpeGs5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HQTYdpx1yhxWpugAi2/giphy.gif" alt="wish hiranya" height="60" width="60" /></a>
-<a href="https://fb.com/wish hiranya" target="blank"><img align="center" src="https://th.bing.com/th/id/R.1dc3051c0f639073502fc3f1d39e9d09?rik=10NxdK%2fijGT%2fJA&pid=ImgRaw&r=0" alt="wish hiranya" height="60" width="60" /></a>
-<a href="https://instagram.com/wish hiranya" target="blank"><img align="center" src="https://www.instafollowers.co/blog/wp-content/uploads/2019/04/Upload-Animated-GIFs-To-Instagram2.gif" alt="wish hiranya" height="50" width="50" /></a>
+<a href="https://instagram.com/wish hiranya" target="blank"><img align="center" src="https://www.instafollowers.co/blog/wp-content/uploads/2019/04/Upload-Animated-GIFs-To-Instagram2.gif" alt="wish hiranya" height="45" width="45" /></a>
 </p>
