@@ -1,4 +1,4 @@
-<img align='center' src="" width="1000" height="350">
+//<img align='center' src="" width="1000" height="350">
 
 <h1 align="center"> Hello Fellow < Developers/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">I'm Wishmi Hiranya, A Software Engineering Undergraduate</h3>
