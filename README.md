@@ -62,13 +62,6 @@
 </table>
 </p>
 
-<h3 align="center">Contact me</h3>
-
-
-    
-
-<br/><br/>
-
 
 
 
