@@ -8,7 +8,7 @@
 <p><center> <img src="https://komarev.com/ghpvc/?username=wish0110&label=Profile%20views&color=0e75b6&style=flat" alt="wish0110" /> </center></p>
 
 - 👧 She/Her
-- 🌱 I’m currently learning <b>Web Crawling</b>
+- 🌱 I’m currently learning <b>React Native</b>
 - 🔄 Routine : Eat - Sleep - Code - Repeat <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 - 📫 How to reach me **wishhiranyaco@gmail.com**
 
