@@ -1,14 +1,14 @@
 
 
 <h1 align="center"> Hello Fellow < Developers/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<h3 align="center">I'm Wishmi Hiranya, A Software Engineering Undergraduate</h3>
+<h3 align="center">I'm Wishmi Hiranya, A Software QA Engineer</h3>
 
 <img align='right' src="https://github.com/Wish0110/Wish0110/assets/113825759/ec55ed86-4cf9-4322-9afd-7ab37fadacf5" width="400" height="250">
 
 <p><center> <img src="https://komarev.com/ghpvc/?username=wish0110&label=Profile%20views&color=0e75b6&style=flat" alt="wish0110" /> </center></p>
 
 - 👧 She/Her
-- 🌱 I’m currently learning <b>React Native</b>
+- 🌱 I’m currently learning <b>Automation</b>
 - 🔄 Routine : Eat - Sleep - Code - Repeat <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 - 📫 How to reach me **wishhiranyaco@gmail.com**
 
